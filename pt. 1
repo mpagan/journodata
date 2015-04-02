@@ -9,7 +9,7 @@
 			.axis path, 
 			.axis line {
 				fill: none;
-				stroke: black; 
+				stroke: red; 
 				shape-rendering: crispEdges;
 			}
 			
